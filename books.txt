@@ -1,0 +1,8 @@
+1, Python Programming, John Smith, 5, 5
+2, Data Structures, Alice Johnson, 3, 3
+3, Python Fundamentals, John Doe, 10, 7
+4, Data Structures and Algorithms, Jane Smith, 8, 5
+5, Introduction to Machine Learning, Michael Johnson, 12, 10
+6, Web Development with Flask, Emily Davis, 6, 4
+7, Effective Communication Skills, David Lee, 15, 12
+8, Thomson Advanced Calculus, Thomson, 2, 2
